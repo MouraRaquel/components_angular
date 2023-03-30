@@ -1,2 +1,2 @@
-# components_angular
-Basic components for developing projects in Angular
+# estrutura_projeto_angular
+Basic structure for an Angular project
